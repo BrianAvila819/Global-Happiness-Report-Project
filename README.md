@@ -1,4 +1,6 @@
-# Global-Happiness-Report-Data Sourcing: This is external data retrieved from Kaggle. The World Happiness Report utilizes data from the Gallup World Poll to generate happiness scores and rankings, considering factors such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity.
+# Global-Happiness-Report-
+
+Data Sourcing: This is external data retrieved from Kaggle. The World Happiness Report utilizes data from the Gallup World Poll to generate happiness scores and rankings, considering factors such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity.
 Data Collection: The method for this type of data collection is 
 administrative as it is part of Government records collection. The data is 
 collected manually as it requires input from a qualified professional. There 
