@@ -7,7 +7,7 @@ administrative as it is part of Government records collection. The data is
 collected manually as it requires input from a qualified professional. There 
 might be time lag as results can take time to obtain. 
 
-Data Contents: The data set consists of most countries worldwide. The variables used in this data are country, region, year,	 Rank, Happiness Score, GDP_per Capita, Family, Life_Expectancy, Freedom, Government_Corruption, Generosity, and Dystopia Residual.
+Data Contents: The data set consists of most countries worldwide. The variables used in this data are country, region, year,	 Rank, Happiness Score, GDP_per Capita, Family, Life_Expectancy, Freedom, Government_Corruption, Generosity.
 Data Relevance: We can assume high relevance and accuracy of this data.
 The World Happiness Report is a widely recognized survey that assesses global happiness, gaining popularity among governments and organizations for informing policy decisions. Experts from various fields, including economics, psychology, and public policy, highlight the effective use of happiness indicators to gauge national progress.
 
